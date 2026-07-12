@@ -1,20 +1,25 @@
 # License
 
-Copyright (c) 2026 addad156
+Copyright (c) 2026 addad156. All rights reserved.
 
-Permission is granted to use this datapack for personal and private use.
+This project may be used:
 
-You may not:
+for personal use,
+on private servers shared with friends.
 
-* redistribute this datapack or any modified versions,
-* upload this datapack or modified versions to other websites or platforms,
-* claim this work as your own,
-* use this project for commercial purposes,
+This project may not be:
 
-without explicit permission from the author.
+used on public or commercial Minecraft servers without prior written permission,
+redistributed in original or modified form,
+uploaded to any website or file hosting service,
+modified and redistributed,
+claimed as your own work.
 
-For permissions, contact:
+If this project is showcased publicly, proper credit to the original author (addad156) must be maintained.
 
+Commercial or public server licensing is available upon request.
+
+Contact:
 Discord: .addad
 
 All rights reserved.
