@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "G",
+    "M",
+    "B"
+  ],
+  "key": {
+    "G": "minecraft:glass_bottle",
+    "M": "minecraft:magma_cream",
+    "B": "minecraft:blaze_powder"
+  },
+  "result": {
+    "id": "minecraft:potion",
+    "count": 3,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Fire Heal Potion",
+        "color": "red",
+        "italic": false
+      },
+      "minecraft:potion_contents": {
+        "potion": "minecraft:fire_resistance"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "use_bandage": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:dried_kelp"
+          ],
+          "components": {
+            "minecraft:custom_name": {
+              "text": "bandage",
+              "color": "white"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "addad:use_bandage"
+  }
+}

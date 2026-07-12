@@ -1,0 +1,1 @@
+scoreboard objectives add bandage_used minecraft.used:minecraft.dried_kelp

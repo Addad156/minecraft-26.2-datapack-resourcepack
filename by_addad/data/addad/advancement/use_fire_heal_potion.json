@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "use_fire_heal_potion": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:potion"
+          ],
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Fire Heal Potion",
+              "color": "red",
+              "italic": false
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "addad:use_fire_heal_potion"
+  }
+}

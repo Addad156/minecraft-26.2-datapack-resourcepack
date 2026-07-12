@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:marker,tag=forge_scan] at @s if block ~ ~ ~ minecraft:blast_furnace run function addad:forge_process

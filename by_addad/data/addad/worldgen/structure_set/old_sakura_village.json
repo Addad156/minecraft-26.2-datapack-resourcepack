@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "addad:old_sakura_village",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 246813579,
+    "spacing": 48,
+    "separation": 12,
+    "spread_type": "linear"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "BWB",
+    "PPP"
+  ],
+  "key": {
+    "B": "minecraft:dried_kelp",
+    "P": "minecraft:paper",
+    "W": "minecraft:oak_planks"
+  },
+  "result": {
+  "id": "minecraft:honey_bottle",
+  "count": 1,
+  "components": {
+    "minecraft:custom_name": {
+      "text": "Medkit",
+      "color": "red"
+    },
+     "minecraft:custom_model_data": {
+        "floats": [
+          20.0
+        ]
+      },
+      "minecraft:item_model": "addad:medkit"
+    }
+  }
+}

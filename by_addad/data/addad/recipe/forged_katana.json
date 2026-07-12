@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": "minecraft:iron_sword",
+  "result": {
+    "id": "minecraft:iron_sword",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Forged Katana",
+        "color": "gray",
+        "italic": true
+      },
+      "minecraft:item_model": "addad:forged_katana",
+
+      "minecraft:enchantments": {
+
+        "minecraft:sharpness": 1,
+        "minecraft:unbreaking": 1
+      },
+      "minecraft:attribute_modifiers": [
+          {
+            "type": "minecraft:attack_damage",
+            "amount": -0.5,
+            "operation": "add_value",
+            "id": "addad:katana_damage",
+            "slot": "mainhand"
+          },
+          {
+            "type": "minecraft:attack_speed",
+            "amount": 0.5,
+            "operation": "add_value",
+            "id": "addad:katana_speed",
+            "slot": "mainhand"
+          }
+        ]
+    }
+  },
+  "experience": 1.0,
+  "cooking_time": 200
+}
