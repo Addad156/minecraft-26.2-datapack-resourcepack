@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "S",
+    "S",
+    "W"
+  ],
+  "key": {
+    "S": "minecraft:string",
+    "W": "minecraft:white_wool"
+  },
+  "result": {
+    "id": "minecraft:dried_kelp",
+    "count": 2,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "bandage",
+        "color": "white"
+      },
+      "minecraft:item_model": "addad:bandage",
+      "minecraft:food": {
+        "nutrition": 0,
+        "saturation": 0,
+        "saturation_modifier": 0,
+        "can_always_eat": true
+      }
+    }
+  }
+}

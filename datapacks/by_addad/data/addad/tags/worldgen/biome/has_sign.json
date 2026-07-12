@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:forest",
+    "minecraft:birch_forest",
+    "minecraft:dark_forest",
+    "minecraft:taiga",
+    "minecraft:savanna",
+    "minecraft:jungle",
+    "minecraft:desert",
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp",
+    "minecraft:cherry_grove",
+    "minecraft:meadow",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_forest",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:badlands",
+    "minecraft:wooded_badlands"
+  ]
+}

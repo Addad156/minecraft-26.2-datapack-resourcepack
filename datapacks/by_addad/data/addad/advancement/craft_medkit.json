@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "craft": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "addad:medkit",
+        "ingredients": [
+          {
+            "items": "minecraft:dried_kelp",
+            "components": {
+              "minecraft:custom_name": {
+                "text": "Bandage",
+                "color": "white"
+              }
+            }
+          },
+          {
+            "items": "minecraft:dried_kelp",
+            "components": {
+              "minecraft:custom_name": {
+                "text": "Bandage",
+                "color": "white"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "addad:craft/medkit"
+  }
+}

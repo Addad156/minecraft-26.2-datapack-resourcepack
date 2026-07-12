@@ -1,0 +1,1 @@
+item replace block ~ ~ ~ container.0 with minecraft:iron_sword[minecraft:custom_name='{"text":"Forged Katana","color":"gray","italic":true}']
